@@ -5,7 +5,7 @@
 A classic Simon memory game built from scratch with pure HTML, CSS, and JavaScript. 
 Test your memory by repeating the increasingly long color sequences!
 
-**Live Demo:** (https://zoya220.github.io/simon_memory_game/)
+**Live Demo:** (https://zoya220.github.io/simon-memory-game/)
 
 ## 🎮 How to Play
 
