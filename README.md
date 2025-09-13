@@ -1,3 +1,7 @@
+# Vanilla JS Simon Game
+
+![Simon Game Screenshot](./"C:\Users\Zoya sk\Downloads\screenshot.png")
+
 A classic Simon memory game built from scratch with pure HTML, CSS, and JavaScript. 
 Test your memory by repeating the increasingly long color sequences!
 
